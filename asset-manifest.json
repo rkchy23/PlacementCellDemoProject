@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tooltip.github.io/static/css/main.ec5f2003.css",
+    "main.js": "/tooltip.github.io/static/js/main.13f9a9f0.js",
+    "static/js/787.3cbf1b22.chunk.js": "/tooltip.github.io/static/js/787.3cbf1b22.chunk.js",
+    "index.html": "/tooltip.github.io/index.html",
+    "main.ec5f2003.css.map": "/tooltip.github.io/static/css/main.ec5f2003.css.map",
+    "main.13f9a9f0.js.map": "/tooltip.github.io/static/js/main.13f9a9f0.js.map",
+    "787.3cbf1b22.chunk.js.map": "/tooltip.github.io/static/js/787.3cbf1b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5f2003.css",
+    "static/js/main.13f9a9f0.js"
+  ]
+}
